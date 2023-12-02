@@ -1,3 +1,7 @@
+# Introduction
+
+This is the official PyTorch implementation of the ICML 2023 paper titled "Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions."
+
 #  Environment
 
 Install conda environment via BidirectionalAdaptation.yaml
@@ -5,8 +9,6 @@ Install conda environment via BidirectionalAdaptation.yaml
 ```
 conda env create -f BidirectionalAdaptation.yaml
 ```
-
-
 
 # Usage
 
